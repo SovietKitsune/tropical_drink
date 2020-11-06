@@ -7,6 +7,6 @@ on: [push, pull_request]
 jobs:
     ready:
         runs-on: ubuntu-latest
-	steps:
-	  - name: Checkout
-	    uses: actions/checkout@v2
+        steps:
+          - name: Checkout
+            uses: actions/checkout@v2
