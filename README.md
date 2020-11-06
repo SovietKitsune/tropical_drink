@@ -1,7 +1,7 @@
-![Lint](https://img.shields.io/github/workflow/status/Forbidden-A/tropical_drink/Lint?label=Check) ![Issues](https://img.shields.io/github/issues/Forbidden-A/tropical_drink) ![Pull Requests](https://img.shields.io/github/issues-pr-raw/Forbidden-A/tropical_drink)
+![Lint](https://img.shields.io/github/workflow/status/Forbidden-A/tropical_drink/Lint?label=Lint) ![Issues](https://img.shields.io/github/issues/Forbidden-A/tropical_drink) ![Pull Requests](https://img.shields.io/github/issues-pr-raw/Forbidden-A/tropical_drink)
 
 Tropical Drink is a multi-purpose discord bot written in [Rust](https://www.rust-lang.org) and using [Serenity](https://github.com/serenity-rs/serenity).
->Note
+>Note:
 >The bot is still in early-development and no-where near usable,                  
 >so there is no invite link yet.
 -----
